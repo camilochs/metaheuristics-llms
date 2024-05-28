@@ -3,7 +3,7 @@ Supplementary material to our article: "Metaheuristics and Large Language Models
 
 ---
 
-The instances of both example and synthetic, as well as real instances, are located in the `/instances` folder.
+The social network instances of both example and synthetic, as well as real instances, are located in the `/instances` folder.
 
 The prompts used for each instance are located in the `/prompts` folder, without the alpha and beta values. 
 
